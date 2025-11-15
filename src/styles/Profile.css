@@ -1,0 +1,40 @@
+
+.profile-card{
+  padding:0;
+}
+
+
+.profile-name{
+  margin:0;
+  font-size:28px;
+  font-weight:700;
+  color:var(--text);
+  line-height:1.05;
+}
+
+
+.profile-occupation{
+  margin:6px 0 10px;
+  color:var(--muted);
+  font-weight:600;
+  font-size:13px;
+  text-transform:none;
+}
+
+
+.profile-contact{
+  font-size:13px;
+  color:var(--muted);
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  margin-bottom:10px;
+}
+
+
+.profile-summary{
+  margin-top:8px;
+  font-size:14px;
+  color:var(--text);
+  line-height:1.45;
+}

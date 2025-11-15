@@ -1,0 +1,38 @@
+.section-title{ margin-bottom:8px }
+
+
+.experience-item{
+  display:grid;
+  /* grid-template-columns:1fr 120px; */
+  gap:12px;
+  padding:12px 0;
+  border-bottom:1px solid var(--line);
+  align-items:start;
+}
+
+/* .exp-main{ } */
+.exp-role{
+  font-weight:700;
+  color:var(--text);
+  font-size:14px;
+}
+.exp-company{
+  margin-left:6px;
+  font-weight:600;
+  color:var(--muted);
+  font-style:normal;
+  font-size:13px;
+}
+.exp-desc{
+  margin-top:8px;
+  color:var(--text);
+  font-size:13px;
+  line-height:1.45;
+  white-space:pre-wrap;
+}
+
+.exp-dates{
+  font-size:12px;
+  color:var(--muted);
+  text-align:right;
+}
