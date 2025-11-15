@@ -1,7 +1,7 @@
 const sampleData = {
   profile: {
     name: "Zohaib Ahmed",
-    email: "zohaib@email.com",
+    email: "mianzohaibahmed462@gmail.com",
     phoneNumber: "+92 1234 567890",
     occupation: "Fullstack Developer",
     summary: "A versatile full-stack developer with experience building scalable web applications across modern front-end and back-end technologies."
